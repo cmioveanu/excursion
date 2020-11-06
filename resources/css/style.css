@@ -4,14 +4,36 @@ html {
     background: black;
 }
 
+
+
 h1 {
     font-size: 50px;
     color: white;
     font-weight: normal;
 }
 
-a {
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+    color: white;
+}
+
+p {
+    font-size: 21px;
+    color: Gray;
+}
+
+p a {
     font-size: 16px;
     color: aquamarine;
 
+}
+
+footer {
+    text-align: right;
+    color: Gray;
+}
+
+.comingSoon {
+    margin-top: 30px;
 }
